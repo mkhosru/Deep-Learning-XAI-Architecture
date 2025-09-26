@@ -1,4 +1,5 @@
-Architectural Heritage Classification Using XAI
+Interpretable Deep Learning for European Architectural Heritage Classification
+ Using XAI
 
 This project focuses on classifying European architectural heritage elements using deep learning, with an emphasis on explainability. We compare three models — ResNet50, tf_efficientnetv2_s, and ViT Base16 — and use Grad-CAM and LIME to visualize how the models make their predictions.
 
